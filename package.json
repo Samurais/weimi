@@ -1,0 +1,24 @@
+{
+  "name": "weimi",
+  "version": "1.0.0",
+  "description": "Send SMS Message with weimi.cc services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arrking/weimi.git"
+  },
+  "keywords": [
+    "SMS",
+    "短信",
+    "微米"
+  ],
+  "author": "Hain Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arrking/weimi/issues"
+  },
+  "homepage": "https://github.com/arrking/weimi"
+}
